@@ -1,0 +1,235 @@
+constituency_no,constituency_name,administrative_district,region_group,is_reserved,reservation_type,notes,mapping_source_url,mapping_verified_on
+1,GUMMIDIPOONDI,Thiruvallur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+2,PONNERI,Thiruvallur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+3,TIRUTTANI,Thiruvallur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+4,THIRUVALLUR,Thiruvallur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+5,POONAMALLEE,Thiruvallur,Chennai Urban Belt,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+6,AVADI,Thiruvallur,Chennai Urban Belt,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+7,MADURAVOYAL,Thiruvallur,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+8,AMBATTUR,Thiruvallur,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+9,MADAVARAM,Thiruvallur,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+10,THIRUVOTTIYUR,Thiruvallur,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+11,DR. RADHAKRISHNAN NAGAR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+12,PERAMBUR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+13,KOLATHUR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+14,VILLIVAKKAM,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+15,THIRU-VI-KA-NAGAR,Chennai,Chennai Administrative District,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+16,EGMORE,Chennai,Chennai Administrative District,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+17,ROYAPURAM,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+18,HARBOUR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+19,CHEPAUK-THIRUVALLIKENI,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+20,THOUSAND LIGHTS,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+21,ANNA NAGAR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+22,VIRUGAMPAKKAM,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+23,SAIDAPET,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+24,THIYAGARAYANAGAR,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+25,MYLAPORE,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+26,VELACHERY,Chennai,Chennai Administrative District,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+27,SHOLINGANALLUR,Chengalpattu,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+28,ALANDUR,Chengalpattu,Chennai Urban Belt,false,,Administrative district corrected from broad Chennai grouping; part of Chennai Urban Belt.,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+29,SRIPERUMBUDUR,Kancheepuram,Chennai Urban Belt,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+30,PALLAVARAM,Chengalpattu,Chennai Urban Belt,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+31,TAMBARAM,Chengalpattu,Chennai Urban Belt,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+32,CHENGALPATTU,Chengalpattu,Chennai Urban Belt,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+33,THIRUPORUR,Chengalpattu,Chennai Urban Belt,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+34,CHEYYUR,Chengalpattu,Chennai Urban Belt,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+35,MADURANTAKAM,Chengalpattu,Chennai Urban Belt,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+36,UTHIRAMERUR,Kancheepuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+37,KANCHEEPURAM,Kancheepuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+38,ARAKKONAM,Ranipet,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+39,SHOLINGUR,Ranipet,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+40,KATPADI,Vellore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+41,RANIPET,Ranipet,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+42,ARCOT,Ranipet,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+43,VELLORE,Vellore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+44,ANAIKATTU,Vellore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+45,KILVAITHINANKUPPAM,Vellore,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+46,GUDIYATHAM,Vellore,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+47,VANIYAMBADI,Tirupattur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+48,AMBUR,Tirupattur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+49,JOLARPET,Tirupattur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+50,TIRUPPATTUR,Tirupattur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+51,UTHANGARAI,Krishnagiri,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+52,BARGUR,Krishnagiri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+53,KRISHNAGIRI,Krishnagiri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+54,VEPPANAHALLI,Krishnagiri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+55,HOSUR,Krishnagiri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+56,THALLI,Krishnagiri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+57,PALACODE,Dharmapuri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+58,PENNAGARAM,Dharmapuri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+59,DHARMAPURI,Dharmapuri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+60,PAPPIREDDIPPATTI,Dharmapuri,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+61,HARUR,Dharmapuri,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+62,CHENGAM,Tiruvannamalai,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+63,TIRUVANNAMALAI,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+64,KILPENNATHUR,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+65,KALASAPAKKAM,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+66,POLUR,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+67,ARANI,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+68,CHEYYAR,Tiruvannamalai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+69,VANDAVASI,Tiruvannamalai,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+70,GINGEE,Viluppuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+71,MAILAM,Viluppuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+72,TINDIVANAM,Viluppuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+73,VANUR,Viluppuram,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+74,VILLUPURAM,Viluppuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+75,VIKRAVANDI,Viluppuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+76,TIRUKKOYILUR,Kallakurichi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+77,ULUNDURPETTAI,Kallakurichi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+78,RISHIVANDIYAM,Kallakurichi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+79,SANKARAPURAM,Kallakurichi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+80,KALLAKURICHI,Kallakurichi,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+81,GANGAVALLI,Salem,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+82,ATTUR,Salem,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+83,YERCAUD,Salem,,true,ST,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+84,OMALUR,Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+85,METTUR,Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+86,EDAPPADI,Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+87,SANKARI,Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+88,SALEM (WEST),Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+89,SALEM (NORTH),Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+90,SALEM (SOUTH),Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+91,VEERAPANDI,Salem,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+92,RASIPURAM,Namakkal,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+93,SENTHAMANGALAM,Namakkal,,true,ST,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+94,NAMAKKAL,Namakkal,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+95,PARAMATHI VELUR,Namakkal,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+96,TIRUCHENGODU,Namakkal,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+97,KUMARAPALAYAM,Namakkal,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+98,ERODE (EAST),Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+99,ERODE (WEST),Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+100,MODAKKURICHI,Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+101,DHARAPURAM,Tiruppur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+102,KANGAYAM,Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+103,PERUNDURAI,Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+104,BHAVANI,Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+105,ANTHIYUR,Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+106,GOBICHETTIPALAYAM,Erode,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+107,BHAVANISAGAR,Erode,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+108,UDHAGAMANDALAM,Nilgiris,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+109,GUDALUR,Nilgiris,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+110,COONOOR,Nilgiris,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+111,METTUPALAYAM,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+112,AVANASHI,Tiruppur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+113,TIRUPPUR (NORTH),Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+114,TIRUPPUR (SOUTH),Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+115,PALLADAM,Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+116,SULUR,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+117,KAVUNDAMPALAYAM,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+118,COIMBATORE (NORTH),Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+119,THONDAMUTHUR,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+120,COIMBATORE (SOUTH),Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+121,SINGANALLUR,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+122,KINATHUKADAVU,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+123,POLLACHI,Coimbatore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+124,VALPARAI,Coimbatore,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+125,UDUMALAIPETTAI,Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+126,MADATHUKULAM,Tiruppur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+127,PALANI,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+128,ODDANCHATRAM,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+129,ATHOOR,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+130,NILAKOTTAI,Dindigul,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+131,NATHAM,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+132,DINDIGUL,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+133,VEDASANDUR,Dindigul,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+134,ARAVAKURICHI,Karur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+135,KARUR,Karur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+136,KRISHNARAYAPURAM,Karur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+137,KULITHALAI,Karur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+138,MANAPAARAI,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+139,SRIRANGAM,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+140,TIRUCHIRAPPALLI (WEST),Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+141,TIRUCHIRAPPALLI (EAST),Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+142,THIRUVERUMBUR,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+143,LALGUDI,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+144,MANACHANALLUR,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+145,MUSIRI,Tiruchirappalli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+146,THURAIYUR,Tiruchirappalli,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+147,PERAMBALUR,Perambalur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+148,KUNNAM,Perambalur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+149,ARIYALUR,Ariyalur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+150,JAYANKONDAM,Ariyalur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+151,TITTAKUDI,Cuddalore,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+152,VIRUDHACHALAM,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+153,NEYVELI,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+154,PANRUTI,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+155,CUDDALORE,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+156,KURINJIPADI,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+157,BHUVANAGIRI,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+158,CHIDAMBARAM,Cuddalore,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+159,KATTUMANNARKOIL,Cuddalore,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+160,SIRKAZHI,Mayiladuthurai,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+161,MAYILADUTHURAI,Mayiladuthurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+162,POOMPUHAR,Mayiladuthurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+163,NAGAPATTINAM,Nagapattinam,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+164,KILVELUR,Nagapattinam,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+165,VEDARANYAM,Nagapattinam,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+166,THIRUTHURAIPOONDI,Thiruvarur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+167,MANNARGUDI,Thiruvarur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+168,THIRUVARUR,Thiruvarur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+169,NANNILAM,Thiruvarur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+170,THIRUVIDAIMARUDUR,Thanjavur,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+171,KUMBAKONAM,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+172,PAPANASAM,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+173,THIRUVAIYARU,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+174,THANJAVUR,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+175,ORATHANADU,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+176,PATTUKKOTTAI,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+177,PERAVURANI,Thanjavur,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+178,GANDARVAKOTTAI,Pudukkottai,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+179,VIRALIMALAI,Pudukkottai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+180,PUDUKKOTTAI,Pudukkottai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+181,THIRUMAYAM,Pudukkottai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+182,ALANGUDI,Pudukkottai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+183,ARANTHANGI,Pudukkottai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+184,KARAIKUDI,Sivaganga,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+185,TIRUPPATTUR,Sivaganga,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+186,SIVAGANGA,Sivaganga,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+187,MANAMADURAI,Sivaganga,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+188,MELUR,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+189,MADURAI EAST,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+190,SHOLAVANDAN,Madurai,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+191,MADURAI NORTH,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+192,MADURAI SOUTH,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+193,MADURAI CENTRAL,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+194,MADURAI WEST,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+195,THIRUPARANKUNDRAM,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+196,THIRUMANGALAM,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+197,USILAMPATTI,Madurai,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+198,ANDIPATTI,Theni,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+199,PERIYAKULAM,Theni,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+200,BODINAYAKANUR,Theni,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+201,CUMBUM,Theni,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+202,RAJAPALAYAM,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+203,SRIVILLIPUTHUR,Virudhunagar,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+204,SATTUR,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+205,SIVAKASI,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+206,VIRUDHUNAGAR,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+207,ARUPPUKKOTTAI,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+208,TIRUCHULI,Virudhunagar,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+209,PARAMAKUDI,Ramanathapuram,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+210,TIRUVADANAI,Ramanathapuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+211,RAMANATHAPURAM,Ramanathapuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+212,MUDHUKULATHUR,Ramanathapuram,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+213,VILATHIKULAM,Thoothukudi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+214,THOOTHUKKUDI,Thoothukudi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+215,TIRUCHENDUR,Thoothukudi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+216,SRIVAIKUNTAM,Thoothukudi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+217,OTTAPIDARAM,Thoothukudi,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+218,KOVILPATTI,Thoothukudi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+219,SANKARANKOVIL,Tenkasi,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+220,VASUDEVANALLUR,Tenkasi,,true,SC,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+221,KADAYANALLUR,Tenkasi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+222,TENKASI,Tenkasi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+223,ALANGULAM,Tenkasi,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+224,TIRUNELVELI,Tirunelveli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+225,AMBASAMUDRAM,Tirunelveli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+226,PALAYAMKOTTAI,Tirunelveli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+227,NANGUNERI,Tirunelveli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+228,RADHAPURAM,Tirunelveli,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+229,KANNIYAKUMARI,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+230,NAGERCOIL,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+231,COLACHAL,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+232,PADMANABHAPURAM,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+233,VILAVANCODE,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12
+234,KILLIYOOR,Kanniyakumari,,false,,,https://en.wikipedia.org/wiki/List_of_constituencies_of_the_Tamil_Nadu_Legislative_Assembly,2026-05-12

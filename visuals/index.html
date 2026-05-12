@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Why Democracy Can Be Mathematically Messy</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Tamil Nadu 2026 Assembly</p>
+          <h1>Why Democracy Can Be Mathematically Messy</h1>
+          <p class="hero-copy">
+            A fun but serious look at how first-past-the-post can turn a three-force election into a
+            hung Assembly, and how a different aggregation rule can tell a different story from the
+            same votes. Inspired by
+            <a href="https://www.youtube.com/watch?v=qf7ws2DF-zk">Veritasium's voting-theory explainer</a>.
+          </p>
+        </div>
+        <div class="snapshot">
+          <span id="snapshot-date">Snapshot</span>
+          <strong>Majority: 118</strong>
+        </div>
+      </header>
+
+      <section class="story-band" aria-label="Story premise">
+        <div class="story-copy">
+          <p class="eyebrow">Inspired by voting theory</p>
+          <h2>The problem is not voters. It is the rulebook.</h2>
+          <p>
+            With two serious choices, a majority can feel obvious. With three or more serious choices,
+            the meaning of "the winner" starts depending heavily on the counting rule. This is the
+            family of problems explored by voting theory, including Arrow's impossibility theorem.
+          </p>
+        </div>
+        <div id="choice-schematic" class="mini-chart" aria-label="Two-party and three-party schematic"></div>
+      </section>
+
+      <section class="explainer-grid" aria-label="Core ideas">
+        <article>
+          <span>01</span>
+          <h2>2-party clarity</h2>
+          <p>One side can cross 50%, so a majority winner is easy to explain.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h2>3-force ambiguity</h2>
+          <p>Pluralities can win locally while most voters backed someone else.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h2>FPTP local plurality</h2>
+          <p>Each constituency gives one seat to whoever finishes first.</p>
+        </article>
+        <article>
+          <span>04</span>
+          <h2>Hung Assembly</h2>
+          <p>The system can select local winners without creating one governing majority.</p>
+        </article>
+        <article>
+          <span>05</span>
+          <h2>Alternative aggregation</h2>
+          <p>A different rule can change the governing story without changing a single vote.</p>
+        </article>
+      </section>
+
+      <section class="story-band compact-story" aria-label="Historical election context">
+        <div class="story-copy">
+          <p class="eyebrow">Historical context since 1967</p>
+          <h2>Tamil Nadu was usually a two-pole contest.</h2>
+          <p>
+            Since the Dravidian-era rupture in 1967, Assembly elections were usually organized around
+            two large poles: first Congress versus DMK, then DMK-led versus AIADMK-led alliances. The
+            2026 result is interesting because TVK makes the old two-pole story harder to use.
+          </p>
+        </div>
+        <div id="historical-stats" class="summary-list" aria-label="Historical bipolar summary"></div>
+      </section>
+
+      <section class="chart-band" aria-label="Historical election timeline">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Credibility check</p>
+            <h2>1967-2026 Election Poles</h2>
+            <p>
+              Summary-level seats grouped by the biggest poles in each election. Alliance labels are
+              normalized for storytelling, while the 2026 row keeps TVK, DMK, and ADMK separate.
+            </p>
+          </div>
+        </div>
+        <div id="historical-chart" class="historical-chart"></div>
+      </section>
+
+      <section class="summary-band" aria-label="Outcome summary">
+        <div class="metric">
+          <span>Party With Majority</span>
+          <strong id="majority-party">0</strong>
+        </div>
+        <div class="metric">
+          <span>Hypothetical Electoral Majority</span>
+          <strong id="hypothesis-tvk">0</strong>
+        </div>
+        <div class="metric">
+          <span>Scenario Outcome</span>
+          <strong id="scenario-outcome">Calculating</strong>
+        </div>
+      </section>
+
+      <section class="chart-band" aria-label="Actual and hypothetical comparison">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">FPTP: simple rule, weird outcome</p>
+            <h2>Actual Assembly Outcome</h2>
+            <p>TVK is the largest party, but <strong>108 / 234</strong> is still short of the <strong>118</strong> majority mark.</p>
+          </div>
+        </div>
+        <div id="comparison-chart" class="chart"></div>
+      </section>
+
+      <section class="story-band compact-story" aria-label="Hung Assembly summary">
+        <div class="story-copy">
+          <p class="eyebrow">Hung Assembly</p>
+          <h2>The system selected 234 local winners, but not one clear governing majority.</h2>
+          <p>
+            First-past-the-post converts each constituency into one seat. That is clean locally, but
+            the statewide result can still be fragmented when three major forces divide the map.
+          </p>
+        </div>
+        <div id="hung-summary" class="summary-list" aria-label="Party seat summary"></div>
+      </section>
+
+      <section class="district-band" aria-label="District allocation">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">A fun hypothesis, not the real system</p>
+            <h2>District Electoral Vote Map</h2>
+            <p>
+              Each administrative district acts like a winner-take-all block. Tied districts split by
+              actual MLA count.
+            </p>
+          </div>
+        </div>
+        <div id="district-chart" class="district-chart"></div>
+      </section>
+
+      <section class="table-band" aria-label="Closest races">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The 3-force fragmentation problem</p>
+            <h2>Closest Races</h2>
+            <p id="close-race-summary">Small margins that could matter in a re-run narrative.</p>
+          </div>
+          <label class="filter-control">
+            <input id="margin-filter" type="checkbox" checked />
+            <span>Margin under 1% of total votes</span>
+          </label>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Constituency</th>
+                <th>Winner Margin</th>
+                <th>Top 3 Parties</th>
+                <th>All Others</th>
+              </tr>
+            </thead>
+            <tbody id="close-races"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="table-band" aria-label="Stronghold races">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Strongholds vs thin wins</p>
+            <h2>Strongholds</h2>
+            <p id="stronghold-summary">Largest winner margins by share of total votes.</p>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table class="stronghold-table">
+            <thead>
+              <tr>
+                <th>Constituency</th>
+                <th>Winner Margin</th>
+                <th>Top 3 Parties</th>
+                <th>All Others</th>
+              </tr>
+            </thead>
+            <tbody id="strongholds"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="closing-band" aria-label="Serious point">
+        <p class="eyebrow">The serious point</p>
+        <h2>The voters did one thing. The rulebook decided what that thing meant.</h2>
+        <p>
+          Arrow's theorem does not prove this election was wrong, and this district model is not a
+          constitutional proposal. The point is narrower and more useful: once there are three or more
+          serious choices, collective choice can become unstable, strategic, and rule-dependent.
+        </p>
+      </section>
+    </main>
+    <div id="tooltip" class="tooltip" role="status"></div>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
