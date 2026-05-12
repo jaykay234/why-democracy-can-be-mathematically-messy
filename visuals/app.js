@@ -538,7 +538,9 @@ function formatMarginPercent(row) {
 }
 
 function candidateCell(candidate) {
-  if (!candidate) return "";
+  if (!candidate) {
+    return `<div class="candidate-row candidate-row--empty"><span class="empty-rank">—</span></div>`;
+  }
   return `
     <div class="candidate-row">
       <div class="party-line">
@@ -584,10 +586,12 @@ function raceBreakdownCells(row, candidatesByConstituency) {
   const others = ranked.slice(3);
   const othersVotes = d3.sum(others, (candidate) => candidate.total_votes);
 
+  const rankCells = [0, 1, 2]
+    .map((i) => `<td class="candidate-cell party-rank-cell">${candidateCell(topThree[i])}</td>`)
+    .join("");
+
   return `
-    <td class="candidate-cell top-three-cell">
-      ${topThree.map(candidateCell).join("")}
-    </td>
+    ${rankCells}
     <td class="candidate-cell others-cell">
       <div class="party-line">
         <span class="party-dot other-dot"></span>

@@ -100,27 +100,26 @@
         <div id="historical-chart" class="historical-chart"></div>
       </section>
 
-      <section class="summary-band" aria-label="Outcome summary">
-        <div class="metric">
-          <span>Party With Majority</span>
-          <strong id="majority-party">0</strong>
-        </div>
-        <div class="metric">
-          <span>Hypothetical Electoral Majority</span>
-          <strong id="hypothesis-tvk">0</strong>
-        </div>
-        <div class="metric">
-          <span>Scenario Outcome</span>
-          <strong id="scenario-outcome">Calculating</strong>
-        </div>
-      </section>
-
       <section class="chart-band" aria-label="Actual and hypothetical comparison">
         <div class="section-heading">
           <div>
             <p class="eyebrow">FPTP: simple rule, weird outcome</p>
             <h2>Actual Assembly Outcome</h2>
             <p>TVK is the largest party, but <strong>108 / 234</strong> is still short of the <strong>118</strong> majority mark.</p>
+          </div>
+        </div>
+        <div class="summary-band" aria-label="Outcome summary">
+          <div class="metric">
+            <span>Party With Majority</span>
+            <strong id="majority-party">0</strong>
+          </div>
+          <div class="metric">
+            <span>Hypothetical Electoral Majority</span>
+            <strong id="hypothesis-tvk">0</strong>
+          </div>
+          <div class="metric">
+            <span>Scenario Outcome</span>
+            <strong id="scenario-outcome">Calculating</strong>
           </div>
         </div>
         <div id="comparison-chart" class="chart"></div>
@@ -131,7 +130,7 @@
           <p class="eyebrow">Hung Assembly</p>
           <h2>The system selected 234 local winners, but not one clear governing majority.</h2>
           <p>
-            First-past-the-post converts each constituency into one seat. That is clean locally, but
+            First-Past-The-Post converts each constituency into one seat. That is clean locally, but
             the statewide result can still be fragmented when three major forces divide the map.
           </p>
         </div>
@@ -165,13 +164,26 @@
           </label>
         </div>
         <div class="table-wrap">
-          <table>
+          <table class="race-table">
+            <colgroup>
+              <col class="w-const" />
+              <col class="w-margin" />
+              <col class="w-party" />
+              <col class="w-party" />
+              <col class="w-party" />
+              <col class="w-others" />
+            </colgroup>
             <thead>
               <tr>
-                <th>Constituency</th>
-                <th>Winner Margin</th>
-                <th>Top 3 Parties</th>
-                <th>All Others</th>
+                <th rowspan="2" scope="col">Constituency</th>
+                <th rowspan="2" scope="col">Winner Margin</th>
+                <th colspan="3" scope="colgroup" class="top3-head">Top 3 Parties</th>
+                <th rowspan="2" scope="col">All Others</th>
+              </tr>
+              <tr>
+                <th scope="col" class="subhead">1st</th>
+                <th scope="col" class="subhead">2nd</th>
+                <th scope="col" class="subhead">3rd</th>
               </tr>
             </thead>
             <tbody id="close-races"></tbody>
@@ -188,13 +200,26 @@
           </div>
         </div>
         <div class="table-wrap">
-          <table class="stronghold-table">
+          <table class="stronghold-table race-table">
+            <colgroup>
+              <col class="w-const" />
+              <col class="w-margin" />
+              <col class="w-party" />
+              <col class="w-party" />
+              <col class="w-party" />
+              <col class="w-others" />
+            </colgroup>
             <thead>
               <tr>
-                <th>Constituency</th>
-                <th>Winner Margin</th>
-                <th>Top 3 Parties</th>
-                <th>All Others</th>
+                <th rowspan="2" scope="col">Constituency</th>
+                <th rowspan="2" scope="col">Winner Margin</th>
+                <th colspan="3" scope="colgroup" class="top3-head">Top 3 Parties</th>
+                <th rowspan="2" scope="col">All Others</th>
+              </tr>
+              <tr>
+                <th scope="col" class="subhead">1st</th>
+                <th scope="col" class="subhead">2nd</th>
+                <th scope="col" class="subhead">3rd</th>
               </tr>
             </thead>
             <tbody id="strongholds"></tbody>

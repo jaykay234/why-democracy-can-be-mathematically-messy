@@ -248,6 +248,10 @@ h2 {
   border: 1px solid var(--line);
 }
 
+.chart-band > .summary-band {
+  margin: 10px 0 22px;
+}
+
 .metric {
   min-height: 96px;
   display: grid;
@@ -399,7 +403,42 @@ h2 {
 table {
   width: 100%;
   border-collapse: collapse;
-  min-width: 760px;
+  min-width: 920px;
+}
+
+table.race-table {
+  table-layout: fixed;
+}
+
+col.w-const {
+  width: 12%;
+}
+
+col.w-margin {
+  width: 16%;
+}
+
+col.w-party {
+  width: 12%;
+}
+
+col.w-others {
+  width: 20%;
+}
+
+thead .top3-head {
+  text-align: center;
+  border-bottom: 0;
+  padding-bottom: 6px;
+}
+
+thead tr:last-child th.subhead {
+  padding-top: 0;
+  padding-bottom: 10px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--muted);
 }
 
 th,
@@ -443,17 +482,23 @@ th {
 }
 
 .candidate-cell {
-  min-width: 180px;
-}
-
-.top-three-cell {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(130px, 1fr));
-  gap: 14px;
-}
-
-.candidate-row {
   min-width: 0;
+}
+
+.party-rank-cell + .party-rank-cell {
+  border-left: 1px solid var(--line);
+}
+
+.party-rank-cell {
+  vertical-align: top;
+}
+
+.candidate-row--empty {
+  min-height: 3.5rem;
+  display: flex;
+  align-items: center;
+  color: var(--muted);
+  font-size: 0.85rem;
 }
 
 .party-line {
@@ -475,8 +520,9 @@ th {
 }
 
 .candidate-name {
-  max-width: 180px;
-  overflow-wrap: anywhere;
+  max-width: 22ch;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 .vote-total {
@@ -551,10 +597,5 @@ th {
 
   table {
     min-width: 680px;
-  }
-
-  .top-three-cell {
-    grid-template-columns: 1fr;
-    gap: 10px;
   }
 }
